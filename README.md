@@ -1,6 +1,17 @@
 
+The HTTP Archive Tracks How the Web is Built.
+https://httparchive.org
+https://almanac.httparchive.org/en/2024/table-of-contents
 
 ## HTTP 2
+
+HTTP/2 Implementation Debug State
+draft-benfield-http2-debug-state-01
+https://datatracker.ietf.org/doc/html/draft-benfield-http2-debug-state-01
+
+
+https://github.com/nghttp2/nghttp2
+
 
 ### HTTP/2 development: A hands-on approach (part 1)
 
