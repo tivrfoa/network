@@ -11,6 +11,8 @@ https://github.com/deweerdt/h2o-exercise
 
 https://x.com/fdeweerdt
 
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+
 ## Prompt: how does a server application can handle http 2 request?
 
 Gemini 1.5 Flash:

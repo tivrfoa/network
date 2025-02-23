@@ -1,3 +1,18 @@
+# Links
+
+https://blog.cloudflare.com/hpack-the-silent-killer-feature-of-http-2/
+
+https://mailman.nginx.org/pipermail/nginx-devel/2015-December/007682.html
+
+[PATCH] HTTP/2: HPACK Huffman encoding
+https://mailman.nginx.org/pipermail/nginx-devel/2015-December/007681.html
+
+# Compiling hpack_example.c
+
+```sh
+gcc -o hpack_example_v002 hpack_example_v002.c -I/opt/homebrew/include -L/opt/homebrew/lib -lnghttp2
+```
+
 # Prompt: is hpack required for http 2?
 
 ChatGPT:
